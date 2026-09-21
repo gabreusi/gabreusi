@@ -25,7 +25,9 @@ I also built the platform's omnichannel support chat (WhatsApp, Instagram and Me
 ```text
 ┌─ now ──────┬───────────────────────────────────────────────┐
 │ building   │ an online store, front to back                │
+├────────────┼───────────────────────────────────────────────┤
 │ exploring  │ WebGPU and text-mode 3D                       │
+├────────────┼───────────────────────────────────────────────┤
 │ working on │ hyrax 1.0 (release candidate, not on npm yet) │
 └────────────┴───────────────────────────────────────────────┘
 ```
