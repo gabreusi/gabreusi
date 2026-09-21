@@ -62,8 +62,10 @@ Smaller: [vod-metadata](https://github.com/gabreusi/vod-metadata) and [vod-metad
 ## Stack
 
 <div align="center">
-  <img alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Redis, Vercel, Cloudflare, Docker, Git, Jest" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,prisma,redis,vercel,cloudflare,docker,git,jest&theme=dark#gh-dark-mode-only" />
-  <img alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Redis, Vercel, Cloudflare, Docker, Git, Jest" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,postgres,prisma,redis,vercel,cloudflare,docker,git,jest&theme=light#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cexpress%2Cpostgres%2Cprisma%2Credis%2Cvercel%2Ccloudflare%2Cdocker%2Cgit%2Cjest&theme=light" />
+    <img alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma, Redis, Vercel, Cloudflare, Docker, Git, Jest" src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cexpress%2Cpostgres%2Cprisma%2Credis%2Cvercel%2Ccloudflare%2Cdocker%2Cgit%2Cjest&theme=dark" />
+  </picture>
   <br />
   <img alt="Fly.io" src="https://img.shields.io/badge/Fly.io-8B5CF6?style=for-the-badge&logo=flydotio&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
